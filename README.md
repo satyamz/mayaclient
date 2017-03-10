@@ -13,7 +13,7 @@ import (
         "github.com/satyamz/mayaclient" )
 
 func main() {
-        c := mayaclient.Client{ Url : "http://127.0.0.1:5656/latest/meta-data/instance-id",}
+        c := mayaclient.Client{ URL : "http://127.0.0.1:5656/latest/meta-data/instance-id",}
         fmt.Println(c.MayaClient())
 }
 
