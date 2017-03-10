@@ -19,5 +19,5 @@ func main() {
 
 ```
 
-3. Run `mayacli.go` using `go run mayacli.go` or `go build mayacli.go ` & ./mayacli 
+3. Run `mayacli.go` using `go run mayacli.go` or `go build mayacli.go ` & `./mayacli` 
 
