@@ -11,4 +11,3 @@ func TestMayaClient(t *testing.T) {
 		t.Error("Expected response ", instanceID, " got ", response)
 	}
 }
-
