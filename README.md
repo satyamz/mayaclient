@@ -1,4 +1,5 @@
-### Sample HTTP Client for mayaserver 
+### Sample HTTP Client for mayaserver
+[![Go Report Card](https://goreportcard.com/badge/github.com/satyamz/mayaclient)](https://goreportcard.com/report/github.com/satyamz/mayaclient)
 
 ##### Example usage
 1. Get the client `go get github.com/satyamz/mayaclient`
